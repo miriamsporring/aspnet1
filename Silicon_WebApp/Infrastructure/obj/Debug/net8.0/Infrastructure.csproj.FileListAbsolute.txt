@@ -1,0 +1,14 @@
+C:\nackademin\ASP.NET-1\Silicon_G-krav\Silicon_WebApp\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\nackademin\ASP.NET-1\Silicon_G-krav\Silicon_WebApp\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+C:\nackademin\ASP.NET-1\Silicon_G-krav\Silicon_WebApp\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\nackademin\ASP.NET-1\Silicon_G-krav\Silicon_WebApp\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\nackademin\ASP.NET-1\Silicon_G-krav\Silicon_WebApp\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\nackademin\ASP.NET-1\Silicon_G-krav\Silicon_WebApp\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\nackademin\ASP.NET-1\Silicon_G-krav\Silicon_WebApp\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\nackademin\ASP.NET-1\Silicon_G-krav\Silicon_WebApp\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\nackademin\ASP.NET-1\Silicon_G-krav\Silicon_WebApp\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\nackademin\ASP.NET-1\Silicon_G-krav\Silicon_WebApp\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\nackademin\ASP.NET-1\Silicon_G-krav\Silicon_WebApp\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\nackademin\ASP.NET-1\Silicon_G-krav\Silicon_WebApp\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\nackademin\ASP.NET-1\Silicon_G-krav\Silicon_WebApp\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+C:\nackademin\ASP.NET-1\Silicon_G-krav\Silicon_WebApp\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
