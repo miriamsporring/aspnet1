@@ -5,6 +5,8 @@
 
 <section class="courses">
 	<div class="container">
+
+		<div class="header">
 		<h1>Courses</h1>
 		<form id="form-filters">
 			<select>
@@ -15,6 +17,8 @@
 				<i class="fa-regular fa-search"></i>
 			</div>
 		</form>
+
+		</div>
 
 		<div class="course-items">
 			@if (Model.Courses != null)
@@ -40,16 +44,16 @@
 									<div class="discount">@course.DiscountPrice</div>
 								}
 								<div class="price" @(!string.IsNullOrEmpty(course.DiscountPrice)? "discount-enabled" : "")>@course.Price</div>
-							</div>
-							<div class="footer">
-								<div class="hours">
-									<i class="fa-regular fa-clock">@course.Hours</i>
+								
+								<div class="footer">
+									<div class="hours">
+										<i class="fa-regular fa-clock"></i> @course.Hours hours
+									</div>
+									<div class="likes">
+										<i class="fa-regular fa-thumbs-up"></i> @course.LikesInProcent (@course.LikesInNumbers)
+									</div>
 								</div>
-								<div class="likes">
-									<i class="fa-regular fa-thumbs-up"> @course.LikesInProcent (@course.LikesInNumbers)</i>
 								</div>
-
-							</div>
 						</div>
 					</a>
 				}

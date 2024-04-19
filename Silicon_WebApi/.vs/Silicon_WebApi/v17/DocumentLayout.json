@@ -7,7 +7,12 @@
       "RelativeMoniker": "D:0:0:{1A9A0DF2-917F-490B-9AE3-96D8FD374A77}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20240414123752_subscription tables updated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mirre\\OneDrive\\Skrivbord\\lektion-8\\Silicon_WebApp\\WebApp\\wwwroot\\css\\scss\\sections\\_signin.scss||{181FE41B-5A5D-479F-9F8F-BF665F4EBC2A}"
+      "AbsoluteMoniker": "D:0:0:{1A9A0DF2-917F-490B-9AE3-96D8FD374A77}|Infrastructure\\Infrastructure.csproj|c:\\nackademin\\asp.net-1\\silicon_g-krav\\silicon_webapi\\infrastructure\\contexts\\apicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A9A0DF2-917F-490B-9AE3-96D8FD374A77}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\contexts\\apicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62BC5E67-F384-409D-82B8-C3634821B9E3}|WebApi\\WebApi.csproj|c:\\nackademin\\asp.net-1\\silicon_g-krav\\silicon_webapi\\webapi\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62BC5E67-F384-409D-82B8-C3634821B9E3}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1A9A0DF2-917F-490B-9AE3-96D8FD374A77}|Infrastructure\\Infrastructure.csproj|c:\\nackademin\\asp.net-1\\silicon_g-krav\\silicon_webapi\\infrastructure\\entities\\subscribersentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -16,14 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1A9A0DF2-917F-490B-9AE3-96D8FD374A77}|Infrastructure\\Infrastructure.csproj|c:\\nackademin\\asp.net-1\\silicon_g-krav\\silicon_webapi\\infrastructure\\entities\\courseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A9A0DF2-917F-490B-9AE3-96D8FD374A77}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\entities\\courseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62BC5E67-F384-409D-82B8-C3634821B9E3}|WebApi\\WebApi.csproj|c:\\nackademin\\asp.net-1\\silicon_g-krav\\silicon_webapi\\webapi\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62BC5E67-F384-409D-82B8-C3634821B9E3}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A9A0DF2-917F-490B-9AE3-96D8FD374A77}|Infrastructure\\Infrastructure.csproj|c:\\nackademin\\asp.net-1\\silicon_g-krav\\silicon_webapi\\infrastructure\\contexts\\apicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A9A0DF2-917F-490B-9AE3-96D8FD374A77}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\contexts\\apicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -33,24 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_signin.scss",
-              "DocumentMoniker": "C:\\Users\\mirre\\OneDrive\\Skrivbord\\lektion-8\\Silicon_WebApp\\WebApp\\wwwroot\\css\\scss\\sections\\_signin.scss",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\Users\\mirre\\OneDrive\\Skrivbord\\lektion-8\\Silicon_WebApp\\WebApp\\wwwroot\\css\\scss\\sections\\_signin.scss",
-              "ToolTip": "C:\\Users\\mirre\\OneDrive\\Skrivbord\\lektion-8\\Silicon_WebApp\\WebApp\\wwwroot\\css\\scss\\sections\\_signin.scss",
-              "RelativeToolTip": "..\\..\\..\\..\\Users\\mirre\\OneDrive\\Skrivbord\\lektion-8\\Silicon_WebApp\\WebApp\\wwwroot\\css\\scss\\sections\\_signin.scss",
-              "ViewState": "AQIAACsAAAAAAAAAAAAmwDAAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002663|",
-              "WhenOpened": "2024-04-18T11:57:09.274Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -60,14 +44,14 @@
               "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20240414123752_Subscription Tables Updated.cs",
               "ToolTip": "C:\\nackademin\\ASP.NET-1\\Silicon_G-krav\\Silicon_WebApi\\Infrastructure\\Migrations\\20240414123752_Subscription Tables Updated.cs",
               "RelativeToolTip": "Infrastructure\\Migrations\\20240414123752_Subscription Tables Updated.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-14T12:37:53.08Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "SubscribersEntity.cs",
               "DocumentMoniker": "C:\\nackademin\\ASP.NET-1\\Silicon_G-krav\\Silicon_WebApi\\Infrastructure\\Entities\\SubscribersEntity.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Entities\\SubscribersEntity.cs",
@@ -79,19 +63,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "CoursesController.cs",
               "DocumentMoniker": "C:\\nackademin\\ASP.NET-1\\Silicon_G-krav\\Silicon_WebApi\\WebApi\\Controllers\\CoursesController.cs",
               "RelativeDocumentMoniker": "WebApi\\Controllers\\CoursesController.cs",
               "ToolTip": "C:\\nackademin\\ASP.NET-1\\Silicon_G-krav\\Silicon_WebApi\\WebApi\\Controllers\\CoursesController.cs",
               "RelativeToolTip": "WebApi\\Controllers\\CoursesController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-10T08:20:00.478Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "ApiContext.cs",
               "DocumentMoniker": "C:\\nackademin\\ASP.NET-1\\Silicon_G-krav\\Silicon_WebApi\\Infrastructure\\Contexts\\ApiContext.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Contexts\\ApiContext.cs",
@@ -103,7 +87,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "CourseEntity.cs",
               "DocumentMoniker": "C:\\nackademin\\ASP.NET-1\\Silicon_G-krav\\Silicon_WebApi\\Infrastructure\\Entities\\CourseEntity.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Entities\\CourseEntity.cs",

@@ -141,3 +141,4 @@ C:\nackademin\ASP.NET-1\Silicon_G-krav\Silicon_WebApp\WebApp\obj\Debug\net8.0\We
 C:\nackademin\ASP.NET-1\Silicon_G-krav\Silicon_WebApp\WebApp\obj\Debug\net8.0\WebApp.genruntimeconfig.cache
 C:\nackademin\ASP.NET-1\Silicon_G-krav\Silicon_WebApp\WebApp\obj\Debug\net8.0\ref\WebApp.dll
 C:\nackademin\ASP.NET-1\Silicon_G-krav\Silicon_WebApp\WebApp\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\nackademin\ASP.NET-1\Silicon_G-krav\Silicon_WebApp\WebApp\obj\Debug\net8.0\WebApp.sourcelink.json
