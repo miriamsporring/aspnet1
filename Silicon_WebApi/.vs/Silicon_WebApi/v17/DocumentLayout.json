@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\nackademin\\ASP.NET-1\\Silicon_G-krav\\Silicon_WebApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{62BC5E67-F384-409D-82B8-C3634821B9E3}|WebApi\\WebApi.csproj|c:\\nackademin\\asp.net-1\\silicon_g-krav\\silicon_webapi\\webapi\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62BC5E67-F384-409D-82B8-C3634821B9E3}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1A9A0DF2-917F-490B-9AE3-96D8FD374A77}|Infrastructure\\Infrastructure.csproj|c:\\nackademin\\asp.net-1\\silicon_g-krav\\silicon_webapi\\infrastructure\\migrations\\20240414123752_subscription tables updated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A9A0DF2-917F-490B-9AE3-96D8FD374A77}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20240414123752_subscription tables updated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1A9A0DF2-917F-490B-9AE3-96D8FD374A77}|Infrastructure\\Infrastructure.csproj|c:\\nackademin\\asp.net-1\\silicon_g-krav\\silicon_webapi\\infrastructure\\contexts\\apicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A9A0DF2-917F-490B-9AE3-96D8FD374A77}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\contexts\\apicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{62BC5E67-F384-409D-82B8-C3634821B9E3}|WebApi\\WebApi.csproj|c:\\nackademin\\asp.net-1\\silicon_g-krav\\silicon_webapi\\webapi\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62BC5E67-F384-409D-82B8-C3634821B9E3}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1A9A0DF2-917F-490B-9AE3-96D8FD374A77}|Infrastructure\\Infrastructure.csproj|c:\\nackademin\\asp.net-1\\silicon_g-krav\\silicon_webapi\\infrastructure\\entities\\subscribersentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,7 +38,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "20240414123752_Subscription Tables Updated.cs",
               "DocumentMoniker": "C:\\nackademin\\ASP.NET-1\\Silicon_G-krav\\Silicon_WebApi\\Infrastructure\\Migrations\\20240414123752_Subscription Tables Updated.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20240414123752_Subscription Tables Updated.cs",
@@ -63,7 +63,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "CoursesController.cs",
               "DocumentMoniker": "C:\\nackademin\\ASP.NET-1\\Silicon_G-krav\\Silicon_WebApi\\WebApi\\Controllers\\CoursesController.cs",
               "RelativeDocumentMoniker": "WebApi\\Controllers\\CoursesController.cs",
@@ -71,11 +71,12 @@
               "RelativeToolTip": "WebApi\\Controllers\\CoursesController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-10T08:20:00.478Z"
+              "WhenOpened": "2024-04-10T08:20:00.478Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ApiContext.cs",
               "DocumentMoniker": "C:\\nackademin\\ASP.NET-1\\Silicon_G-krav\\Silicon_WebApi\\Infrastructure\\Contexts\\ApiContext.cs",
               "RelativeDocumentMoniker": "Infrastructure\\Contexts\\ApiContext.cs",
